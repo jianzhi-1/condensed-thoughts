@@ -8,6 +8,6 @@ modal --version
 Volume
 
 ```shell
-modal volume create flashinfer-trace
-modal volume put flashinfer-trace ./mlsys26-contest .
+modal volume create <name>
+modal volume put <name> ./mount-dir .
 ```
