@@ -93,3 +93,7 @@ Stopping app - uncaught exception raised locally: FunctionTimeoutError("Task's c
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
 FunctionTimeoutError: Task's current input in-01KPJ3A91C01CVK1YZXBJKX4K1:1776576439351-0 hit its timeout of 3600s
 ```
+
+```shell
+modal run scripts/run_modal.py
+```
